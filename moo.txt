@@ -1,14 +1,7 @@
 これはサンプルファイルです( ˘ω˘)
 別名で保存して使ってね！
 
-mootest 修正3
-
-testtesttesttesttesttest
-testtesttesttesttest
-testtesttesttest
-testtesttest
-testtest
-test
+mootest 修正2
 
 testtesttesttesttesttest
 testtesttesttesttest
